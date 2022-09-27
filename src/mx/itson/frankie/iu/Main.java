@@ -39,6 +39,8 @@ public class Main {
        
        //agregas pasos
        
+       // Pasos
+       
        receta.setDificultad(Dificultad.FACIL);
        
    }
